@@ -50,12 +50,14 @@
 
 该项目有点是什么？
 答：界面UI编程更简单
-两行代码可以唤起一个自定义好的弹窗
+如两行代码可以唤起一个自定义好的弹窗
 module: ModuleVO = ModuleVO(MainWindowMediator)
 self.sendNotification(Constant.SWITCH_QWIDGET, module)
 
+
 开源和完整项目有什么差异？
 答：开源100%完全相同的核心框架和UI（仅实现屏蔽，该开源项目直接编码自己定义实现的）。方便更多的人技术学习交流。
+具备部分完整功能（软件检测、环境检测、文本消息群发、MVC架构的UI编程）方便学习理解
 
 
 wechat_robot-manage-demo
