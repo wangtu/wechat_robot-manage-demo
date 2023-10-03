@@ -32,7 +32,7 @@
 
 ## [完整项目]
 
-更多介绍见：[微信办公助手帮助手册](https://docs.qq.com/doc/DRVpJdHZUcElsckJU)
+更多介绍见：[微信办公助手帮助手册](https://k23x0697eg.feishu.cn/docx/LpdSdSVQ1oBVi4xVZ8lccBi9nYn)
 
 ```
 要花钱吗？
