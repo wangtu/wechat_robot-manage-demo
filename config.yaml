@@ -1,0 +1,48 @@
+logging:
+  version: 1
+  disable_existing_loggers: False
+
+  formatters:
+    simple:
+      format: "%(asctime)s %(name)s %(message)s"
+      datefmt: "%Y-%m-%d %H:%M:%S"
+    error:
+      format: "%(asctime)s %(name)s %(levelname)s %(filename)s::%(funcName)s[%(lineno)d]:%(message)s"
+
+  handlers:
+    console:
+      class: logging.StreamHandler
+      level: INFO
+      formatter: simple
+      stream: ext://sys.stdout
+
+    info_file_handler:
+      class: logging.handlers.RotatingFileHandler
+      level: INFO
+      formatter: simple
+      filename: wx_info.log
+      maxBytes: 10485760 # 10MB
+      backupCount: 20
+      encoding: utf8
+
+    error_file_handler:
+      class: logging.handlers.RotatingFileHandler
+      level: ERROR
+      formatter: error
+      filename: wx_error.log
+      maxBytes: 10485760 # 10MB
+      backupCount: 20
+      encoding: utf8
+
+    customer_handler:
+      class: frame.base.log_handler.MyLogHandler
+      formatter: simple
+      level: INFO
+      encoding: utf8
+      name: "LoggerHandler"
+      other_attr: "something others"
+
+
+  root:
+    level: INFO
+    handlers: [ console, info_file_handler, error_file_handler,customer_handler ]

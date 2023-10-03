@@ -1,0 +1,6 @@
+PyQt5~=5.15.9
+PyYAML==6.0.1
+wcferry==39.0.3.0
+requests==2.31.0
+APScheduler==3.10.4
+httpx==0.25.0
