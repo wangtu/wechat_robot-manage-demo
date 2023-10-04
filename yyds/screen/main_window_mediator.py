@@ -202,7 +202,7 @@ class MainWindowMediator(BaseQMainWindowMediator):
             module.parentUI = self.getViewComponent().stackedWidget
             self.sendNotification(Constant.SWITCH_QWIDGET, module)
         elif current.text() == "关于":
-            show_message("更多信息，请关注", "https://docs.qq.com/doc/DRVpJdHZUcElsckJU")
+            show_message("更多信息，请关注", "https://k23x0697eg.feishu.cn/docx/LpdSdSVQ1oBVi4xVZ8lccBi9nYn")
 
     def log_out(self):
         self.close()
