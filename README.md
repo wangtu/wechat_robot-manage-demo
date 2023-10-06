@@ -39,7 +39,13 @@
 答：免费的，重要的事情说三遍，免费！免费！免费！不用钱，香不香?
 
 怎么试用？
-答：下载软件，启动页选择①启动办公，弹出微信登录窗口，选择登录即可，每天默认每个vx角色都会发新的额度（群发、AI聊天），
+答：下载软件，启动页选择①启动办公，弹出微信登录窗口，选择登录即可，每天默认每个vx角色都会发新的额度（群发、AI聊天）
+
+下载地址？
+答：github release附件下载
+或访问百度网盘，关注最新版本发布
+链接：https://pan.baidu.com/s/1RTwCOIn7uIjfip2vnsAjzw?pwd=tutu 
+提取码：tutu 
 ```
 
 ## [开源项目结构]
@@ -88,6 +94,18 @@ wechat_robot-manage-demo
 
 ### [v1.0.0 (2023.10.3)]
 
+正式发布
+
+### [v1.0.1 (2023.10.5)]
+修复相关问题：
+1、增加空内容文本回复提示
+2、修复允许昵称为空的微信用户也能使用
+3、自动添加拉群时，欢迎语延迟2秒，避免加群者收不到
+4、修复删除操作联系人时，误删多人
+5、修复当天首次登录不显示群发、AI额度的缺陷
+优化：
+1、界面精简，优化提示
+2、删除操控面板的操作联系人，更灵敏
 
 
 | [![碲矿](https://github.com/lich0821/WeChatFerry/raw/master/assets/TEQuant.jpg)](https://github.com/lich0821/WeChatFerry/blob/master/assets/TEQuant.jpg) | [<img src="assets/QR.png" alt="加作者" style="zoom: 55%;" />](https://github.com/lich0821/WeChatFerry/blob/master/assets/QR.png) |
