@@ -107,6 +107,16 @@ wechat_robot-manage-demo
 1、界面精简，优化提示
 2、删除操控面板的操作联系人，更灵敏
 
+### [v1.0.3 (2023.10.7)]
+fix：
+1、修复关键字选择群被人@不生效问题
+2、修复加群识别到关键字，再次回复AI消息
+3、修复主动删除好友后，主动发送消息死循环缺陷
+体验优化：
+1、优化主界面交互设计，精简界面，新手操控界面更清爽
+2、启动成功通知，增加windows系统通知
+3、压缩打包，文件更小
+
 
 | [![碲矿](https://github.com/lich0821/WeChatFerry/raw/master/assets/TEQuant.jpg)](https://github.com/lich0821/WeChatFerry/blob/master/assets/TEQuant.jpg) | [<img src="assets/QR.png" alt="加作者" style="zoom: 55%;" />](https://github.com/lich0821/WeChatFerry/blob/master/assets/QR.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
