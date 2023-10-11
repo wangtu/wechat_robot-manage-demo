@@ -133,6 +133,6 @@ fix：
  5、启动成功通知，增加windows系统通知 3、压缩打包，文件更小
 
 
-| [<img src="img/qrcode_for_gh_4309caa98ad1_258.jpg" alt="加作者" style="zoom: 55%;" />](https://github.com/lich0821/WeChatFerry/blob/master/assets/gzh.jpg) |
+| [<img src="img/gzh.jpg" alt="加作者" style="zoom: 55%;" />](https://github.com/lich0821/WeChatFerry/blob/master/assets/gzh.jpg) |
 | ------------------------------------------------------------ |
 | 回复`微信办公` 加群交流                                      |
