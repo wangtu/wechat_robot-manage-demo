@@ -118,6 +118,21 @@ fix：
 3、压缩打包，文件更小
 
 
-| [![碲矿](https://github.com/lich0821/WeChatFerry/raw/master/assets/TEQuant.jpg)](https://github.com/lich0821/WeChatFerry/blob/master/assets/TEQuant.jpg) | [<img src="assets/QR.png" alt="加作者" style="zoom: 55%;" />](https://github.com/lich0821/WeChatFerry/blob/master/assets/QR.png) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 回复`WeChatFerry` 加群交流                                   | 加作者交流                                                   |
+
+### [v1.3.0 (2023.10.11)]
+ 1、新增群管理新人入群欢迎提示配置
+ 2、新增邮件通知，工作过程再也不会延误关键邮件了
+ 3、修改，关于调整为公告，实时获取最新信息
+ 4、定时回复增加智能AI能力，讲段子、团队打鸡血、国际新闻
+ 5、体验优化精简界面，新手操控界面更清爽 
+ 修复
+ 1、修复关键字选择群被人@不生效问题
+ 2、修复加群识别到关键字，再次回复AI消息
+ 3、修复主动删除好友后，主动发送消息死循环缺陷
+ 4、体验优化精简界面，新手操控界面更清爽
+ 5、启动成功通知，增加windows系统通知 3、压缩打包，文件更小
+
+
+| [<img src="img/qrcode_for_gh_4309caa98ad1_258.jpg" alt="加作者" style="zoom: 55%;" />](https://github.com/lich0821/WeChatFerry/blob/master/assets/gzh.jpg) |
+| ------------------------------------------------------------ |
+| 回复`微信办公` 加群交流                                      |
