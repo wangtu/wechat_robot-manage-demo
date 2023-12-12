@@ -225,6 +225,6 @@ fix：
 
 
 
-| [<img src="assets/jqr.jpg" alt="加作者" style="zoom: 55%;" />](https://github.com/wangtu/wechat_robot-manage-demo/blob/main/assets/jqr.jpg) |
+| [<img src="assets/jqr.jpg" alt="加作者" style="zoom: 33%;" />](https://github.com/wangtu/wechat_robot-manage-demo/blob/main/assets/jqr.jpg) |
 | ------------------------------------------------------------ |
 | 加好友回复 `微信办公` 加群交流                               |
