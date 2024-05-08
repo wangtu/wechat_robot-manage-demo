@@ -313,7 +313,7 @@
              <string/>
             </property>
             <property name="selectionMode">
-             <enum>QAbstractItemView::ExtendedSelection</enum>
+             <enum>QAbstractItemView::SingleSelection</enum>
             </property>
            </widget>
           </item>
