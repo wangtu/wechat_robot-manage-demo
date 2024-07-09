@@ -45,9 +45,8 @@
 答：
 1、github release附件下载
 
-2、访问百度网盘下载
-链接：https://pan.baidu.com/s/1RTwCOIn7uIjfip2vnsAjzw?pwd=tutu 
-提取码：tutu 
+2、访问天翼云盘
+https://cloud.189.cn/t/ZFnqiq3Mjiqq （访问码：j8tj）
 
 3、蓝奏云网盘，支持网页下载
 https://wwyg.lanzouy.com/b052lfhmd
@@ -111,6 +110,10 @@ wechat_robot-manage-demo
 
 
 ## [专业版，版本更新内容]
+
+### [V1.5.0.1（2024.7.9）]
+1、支持最新微信版本3.9.10.27
+
 
 ### [V1.5.0（2024.5.6）]
 1、新增：消息转发模块，支持图片、文本转发，超骚
