@@ -17,10 +17,9 @@
 - 本工具的使用者在下载、安装、运行或使用本工具时，即表示已阅读并同意本免责声明。如有异议，请立即停止使用本工具，并删除所有相关文件。
 
 
-核心框架主要采用开源**WechatFerry**、**PureMVC**、**PyQT5**
+核心框架主要采用开源**PureMVC**、**PyQT5**
 
 更多介绍见：
-[WeChatFerry: 一个玩微信的工具](https://mp.weixin.qq.com/s/CGLfSaNDy8MyuyPWGjGJ7w)。
 
 [PureMVC:一个支持18语言的轻量](https://github.com/PureMVC)。
 
